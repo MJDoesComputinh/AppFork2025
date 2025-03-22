@@ -14,3 +14,4 @@ Contents
 
    usage
    api
+   Take To Error Page
